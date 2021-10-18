@@ -1,2 +1,2 @@
 # lotto
-Lottery Assignment 6 CS 20
+Lottery Assignment 5 CS 20
