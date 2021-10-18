@@ -1,0 +1,38 @@
+html, body {
+    text-align:center; 
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+    background-color: #e7e7de;
+    color:#15dd8a;
+    }
+header {
+    background-color: #b3dac0;
+    padding: 20px;
+}
+input {
+    color:#fff; 
+    background-color: #15dd8a; 
+    border-radius: 8px;
+    border-color: #fff;
+    padding: 5px;
+    font-family: 'Mulish', sans-serif;
+}
+form {
+    padding: 20px;
+}
+input:hover {
+    color:#15dd8a;
+    background-color: #fff;
+    border-width: 2px;
+    border-color:#15dd8a;
+}
+
+.winNum,.yourNum {
+    display: inline;
+    color:#2C6E49;
+}
+
+
+.winTitle,.yourTitle {
+    padding:7px;
+}
